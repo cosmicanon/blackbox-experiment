@@ -13,8 +13,6 @@ The experiment aims to answer these questions before evolving into its next phas
 	<li>Is this a voluntary heist?</li>
 	<li>What happens next?</li>
 </ol>
-
-<br/><br/>
 {{< /rawhtml >}}
 
 * The first 3 Goals will be answered at Ethereum [block 12369000 (~ 1 May 2021)](https://etherscan.io/block/countdown/12369000).
