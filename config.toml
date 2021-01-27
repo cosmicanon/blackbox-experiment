@@ -1,0 +1,4 @@
+baseURL = "https://blackboxexperiment.eth/"
+languageCode = "en-us"
+title = "Black Box Experiment"
+theme = "dimension"

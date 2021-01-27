@@ -1,0 +1,5 @@
+baseURL: https://blackboxexperiment.eth/
+title: Black Box Experiement
+themesDir: "../../"
+theme: "dimension"
+
