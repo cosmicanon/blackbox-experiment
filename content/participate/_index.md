@@ -18,7 +18,6 @@ To take part in this experiment participants must follow 3 simple rules:
 ##### 0x458e77B532fEe1c777508cAc56475904558848e6
 ![0x458e77B532fEe1c777508cAc56475904558848e6](/images/blackbox-eth.png)
 
-
 #### Caveats
 1) There is no maximum cap on deposits.
 2) You can deposit any token and any minimum amount not mentioned in step 2 in the **Rules** section above but you will not be eligible for the Special Participants NFT.

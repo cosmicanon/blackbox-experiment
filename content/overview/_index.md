@@ -12,7 +12,6 @@ weight: 2
 * All we can guarantee you is that the results will be made public and eligible participants will receive a Special Participants NFT.
 * NFTs may or may not have a utility value in the future.
 
-
 #### Audience Profile
 This experiment/game/project is not for everyone but can be an ideal fit for:
 

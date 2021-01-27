@@ -9,7 +9,6 @@ weight: 5
 * We're buidling 5D bridges as we walk, creating multidimensional art.
 * Journey with us.
 * This is legit. Trust the plan.
-
 {{< rawhtml >}}
 <h2 style="text-align: center;">Project Paracosm</h2>
 {{< /rawhtml >}}

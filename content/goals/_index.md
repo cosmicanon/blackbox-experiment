@@ -4,7 +4,6 @@ weight: 3
 ---
 
 The experiment aims to answer these questions before evolving into its next phase:
-
 1. Will anyone take part in this experiment?
 2. Which will occur first, final countdown elapsing or minimum USD$ 193,600 in TVD (Total Value Deposited) being met?
 3. Is this a voluntary heist?
