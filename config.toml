@@ -20,7 +20,7 @@ weight = 3
 
 [[menu.main]]
 name = "Game States"
-url = "/#states"
+url = "/#game-states"
 weight = 4
 
 [[menu.main]]
