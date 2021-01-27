@@ -3,28 +3,4 @@ languageCode = "en-us"
 title = "Black Box Experiment"
 theme = "dimension"
 
-[[menu.main]]
-name = "Overview"
-url = "/#overview"
-weight = 1
-
-[[menu.main]]
-name = "Participate"
-url = "/#participate"
-weight = 2
-
-[[menu.main]]
-name = "Goals"
-url = "/#goals"
-weight = 3
-
-[[menu.main]]
-name = "Game States"
-url = "/#game-states"
-weight = 4
-
-[[menu.main]]
-name = "About"
-url = "/#about"
-weight = 5
 
