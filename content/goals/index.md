@@ -7,12 +7,13 @@ draft: false
 The experiment aims to answer these questions before evolving into its next phase:
 {{< rawhtml >}}
 <br/>
-{{< /rawhtml >}}
-* Will anyone take part in this experiment?
-* Which will occur first, final countdown elapsing or minimum USD$ 193,600 in TVD (Total Value Deposited) being met?
-* Is this a voluntary heist?
-* What happens next?
-{{< rawhtml >}}
+<ol>
+	<li>Will anyone take part in this wild experiment?</li>
+	<li>Which will occur first, final countdown elapsing or minimum USD$ 193,600 in TVD (Total Value Deposited) being met?</li>
+	<li>Is this a voluntary heist?</li>
+	<li>What happens next?</li>
+</ol>
+
 <br/><br/>
 {{< /rawhtml >}}
 
