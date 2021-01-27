@@ -11,5 +11,13 @@ draft: false
 * Journey with us.
 * This is legit. Trust the plan.
 {{< rawhtml >}}
-<br/><br/><h2 style="text-align: center;">Project Paracosm</h2>
+<br/><br/>
+	<h2 style="text-align: center;">Project Paracosm</h2>
+<br/><br/>
+	<img src="/images/nikola-tesla.jpg" alt="Nikola Tesla" style="width:139.6px; padding: 20px;">
+	<img src="/images/outside-the-wire.jpg" alt="Outside The Wire" style="width:196.3px; padding: 20px;">
+	<img src="/images/morty-smith.jpg" alt="Morty Smith" style="width:136.9px; padding: 20px;">
+	<img src="/images/rick-sanchez.jpg" alt="Rick Sanchez" style="width:163.9px; padding: 20px;">
 {{< /rawhtml >}}
+
+> ### _Do you trust us?_
