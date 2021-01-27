@@ -5,4 +5,3 @@ weight: 1
 logo: "cube"
 background: "images/bg.jpg"
 ---
-### heha
