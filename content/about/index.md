@@ -11,5 +11,5 @@ draft: false
 * Journey with us.
 * This is legit. Trust the plan.
 {{< rawhtml >}}
-<h2 style="text-align: center;">Project Paracosm</h2>
+<br/><br/><h2 style="text-align: center;">Project Paracosm</h2>
 {{< /rawhtml >}}
