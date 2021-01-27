@@ -2,6 +2,9 @@
 	border:none!important;
 }
 
-li{
-	font-size: 63%!important;
+.hexa img{
+	height:110px;
+	width: 115px;
 }
+
+.hexa a{border: none;}
