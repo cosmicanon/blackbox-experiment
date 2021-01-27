@@ -10,6 +10,7 @@ The experiment aims to answer these questions before evolving into its next phas
 3. Is this a voluntary heist?
 4. What happens next?
 ---------
+
 * Goals 1-3 will be answered at Ethereum [block 12369000 (~ 1 May 2021)](https://etherscan.io/block/countdown/12369000).
 * Goal 4 will be answered on 1 June 2021.
 
