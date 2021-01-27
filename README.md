@@ -1,3 +1,3 @@
 # The Black Box Experiment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/814fe06c-b037-479d-9dec-b5e51c512695/deploy-status)](https://app.netlify.com/sites/youthful-noyce-319032/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a087e552-4ba6-4359-8f68-bf810b285eba/deploy-status)](https://app.netlify.com/sites/pedantic-ride-df4090/deploys)
