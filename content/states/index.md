@@ -12,4 +12,4 @@ The experiment will have 5N possibilities:
 * **ALIVE 1001** - Your cryptos are spent. With public accountability.
 * **QSTATE 101110001** - An unknown mystery outcome, even to us at this time.
 
-##### [Next > Goals](#goals)
+##### [Next > About](#about)

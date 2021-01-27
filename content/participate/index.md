@@ -27,4 +27,4 @@ To take part in this experiment participants must follow 3 simple rules:
 
 
 
-##### [Next > About](#about)
+##### [Next > Goals](#goals)

@@ -26,4 +26,4 @@ This experiment/game/project is not for everyone but can be an ideal fit for:
 Nicola Tesla once said -
 > _If you only knew the magnificence of the 3, 6 and 9, then you would have the key to the universe._
 
-##### [Next > Game States](#states)
+##### [Next > Participate](#participate)
