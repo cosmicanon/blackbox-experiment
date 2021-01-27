@@ -1,6 +1,7 @@
 ---
 title: Goals
 weight: 3
+draft: false
 ---
 
 The experiment aims to answer these questions before evolving into its next phase:

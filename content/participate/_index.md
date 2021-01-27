@@ -1,6 +1,7 @@
 ---
 title: Participate
 weight: 2
+draft: false
 ---
 
 #### Rules

@@ -1,6 +1,7 @@
 ---
 title: Game States
 weight: 4
+draft: false
 ---
 
 The experiment will have 5N possibilities:
